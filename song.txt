@@ -37,3 +37,13 @@ Dream of Californication
 Dream of Californication
 Dream of Californication
 Dream of Californication
+<<<<<<< HEAD
+This is my favourite song of
+RHCP
+=======
+<<<<<<< HEAD
+This is my favourite song of
+RHCP
+=======
+>>>>>>> parent of c247283 (first feature commit)
+>>>>>>> ac581d5 (finish my song)
